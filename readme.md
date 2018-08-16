@@ -12,4 +12,5 @@ In order to not publish API keys, this uses an environment varable of MESSAGEBIR
 Set that variable to your API key either for a single session by running on the command lines
 ```bash
 MESSAGEBIRD_API_KEY = yourkey
+```
 or permanently by editing your ~/.bashrc or ~/.profile files to include the variable.
