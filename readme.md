@@ -10,5 +10,6 @@ Clone the git repository to your local system and run NPM install.
 In order to not publish API keys, this uses an environment varable of MESSAGEBIRD_API_KEY.
 
 Set that variable to your API key either for a single session by running on the command lines
-````MESSAGEBIRD_API_KEY = yourkey
-or permanently by editing your ~/.bashrc or ~/.profile files.
+```bash
+MESSAGEBIRD_API_KEY = yourkey
+or permanently by editing your ~/.bashrc or ~/.profile files to include the variable.
